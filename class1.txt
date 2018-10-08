@@ -1,2 +1,4 @@
-ejmplo de class1
+ejemplo de class1
+
+texto complemento
 
